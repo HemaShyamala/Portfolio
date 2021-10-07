@@ -34,7 +34,7 @@ function Navbar() {
     const useStyles = makeStyles((t) => ({
         navMenu : {
             fontSize: '2.5rem',
-            color: theme.tertiary,
+            color: theme.secondary,
             cursor: 'pointer',
             transform: 'translateY(-10px)',
             transition: 'color 0.3s',
